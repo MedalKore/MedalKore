@@ -10,8 +10,11 @@ MedalKore::Application.routes.draw do
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
   # This route can be invoked with purchase_url(:id => product.id)
 
+<<<<<<< HEAD
   match '/' => 'home#index', :as => 'home'
 
+=======
+>>>>>>> 60efaeb5feeb7b4d433165f10f07770b672e61d6
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 

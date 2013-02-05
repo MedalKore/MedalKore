@@ -1,12 +1,21 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'rails', '3.2.6'
+=======
+gem 'rails', '3.2.8'
+>>>>>>> 60efaeb5feeb7b4d433165f10f07770b672e61d6
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+<<<<<<< HEAD
 gem 'sqlite3'
 # gem 'haml'
+=======
+gem 'pg'
+
+>>>>>>> 60efaeb5feeb7b4d433165f10f07770b672e61d6
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -22,7 +31,11 @@ end
 
 gem 'jquery-rails'
 
+<<<<<<< HEAD
 # To use ActiveModel has_secure_pasksword
+=======
+# To use ActiveModel has_secure_password
+>>>>>>> 60efaeb5feeb7b4d433165f10f07770b672e61d6
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
